@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+.Python
+.env
+.venv/
+venv/
+submission.csv
+*.csv
+!requirements.txt
+candidates.jsonl
+candidates.jsonl.gz
+mcps/
+.DS_Store
+Thumbs.db

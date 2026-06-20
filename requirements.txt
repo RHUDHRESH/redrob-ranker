@@ -1,0 +1,2 @@
+# Redrob Ranker — CPU-only, no network at ranking time
+# Python >= 3.10 recommended
